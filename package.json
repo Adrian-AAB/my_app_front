@@ -1,0 +1,15 @@
+{
+    "name": "nombre-del-proyecto",
+    "version": "1.0.0",
+    "description": "Breve descripción del proyecto",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no hay pruebas definidas\" && exit 1"
+    },
+    "author": "Nombre del autor",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
