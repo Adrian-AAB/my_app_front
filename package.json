@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
       "start": "node index.js",
-      "test": "echo \"Error: no hay pruebas definidas\" && exit 1"
+      "test": "jest --verbose"
     },
     "author": "Nombre del autor",
     "license": "MIT",
