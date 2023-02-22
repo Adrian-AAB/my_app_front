@@ -1,5 +1,5 @@
 {
-    "name": "nombre-del-proyecto",
+    "name": "",
     "version": "1.0.0",
     "description": "Breve descripción del proyecto",
     "main": "index.js",
@@ -7,7 +7,7 @@
       "start": "node index.js",
  
     },
-    "author": "Nombre del autor",
+    "author": "",
     "license": "MIT",
     "dependencies": {
       "express": "^4.17.1"
