@@ -4,12 +4,8 @@
     "description": "Breve descripción del proyecto",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js",
-      "test": "npm install --save-dev jest"
+      "start": "node index.js"
     },
-    "author": "Nombre del autor",
-    "license": "MIT",
-    "dependencies": {
-      "express": "^4.17.1"
-    }
+    "author": "",
+    "license": "MIT"
   }
